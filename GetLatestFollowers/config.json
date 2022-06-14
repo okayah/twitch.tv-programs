@@ -1,0 +1,16 @@
+{
+  "Authentication": {
+    "client_id": "",
+    "client_secret": ""
+  },
+
+  "Settings": {
+    "Username": "xqc",
+    "Webhook": {
+      "URL": "(to disable, make URL empty) https://discord.com/api/webhooks/000/xxx",
+      "Color": "03b2f8",
+      "Delete_After": false,
+      "Delete_After_Time": 10
+    }
+  }
+}
